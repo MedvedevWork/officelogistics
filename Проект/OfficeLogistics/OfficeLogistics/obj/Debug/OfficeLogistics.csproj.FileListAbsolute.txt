@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\483\! Учебная практика\01.01\Проект\OfficeLogistics\OfficeLogistics\obj\Debug\OfficeLogistics.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\483\! Учебная практика\01.01\Проект\OfficeLogistics\OfficeLogistics\obj\Debug\OfficeLogistics.Properties.Resources.resources
+C:\Users\Admin\Documents\483\! Учебная практика\01.01\Проект\OfficeLogistics\OfficeLogistics\obj\Debug\OfficeLogistics.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\483\! Учебная практика\01.01\Проект\OfficeLogistics\OfficeLogistics\obj\Debug\OfficeLogistics.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\483\! Учебная практика\01.01\Проект\OfficeLogistics\OfficeLogistics\bin\Debug\OfficeLogistics.exe.config
+C:\Users\Admin\Documents\483\! Учебная практика\01.01\Проект\OfficeLogistics\OfficeLogistics\bin\Debug\OfficeLogistics.exe
+C:\Users\Admin\Documents\483\! Учебная практика\01.01\Проект\OfficeLogistics\OfficeLogistics\bin\Debug\OfficeLogistics.pdb
+C:\Users\Admin\Documents\483\! Учебная практика\01.01\Проект\OfficeLogistics\OfficeLogistics\obj\Debug\OfficeLogistics.AdminPanel.resources
+C:\Users\Admin\Documents\483\! Учебная практика\01.01\Проект\OfficeLogistics\OfficeLogistics\obj\Debug\OfficeLogistics.Auth.resources
+C:\Users\Admin\Documents\483\! Учебная практика\01.01\Проект\OfficeLogistics\OfficeLogistics\obj\Debug\OfficeLogistics.Shelfs.resources
+C:\Users\Admin\Documents\483\! Учебная практика\01.01\Проект\OfficeLogistics\OfficeLogistics\obj\Debug\OfficeLogistics.exe
+C:\Users\Admin\Documents\483\! Учебная практика\01.01\Проект\OfficeLogistics\OfficeLogistics\obj\Debug\OfficeLogistics.pdb
+C:\Users\Admin\Documents\483\! Учебная практика\01.01\Проект\OfficeLogistics\OfficeLogistics\obj\Debug\OfficeLogistics.CreateUser.resources
+C:\Users\Admin\Documents\483\! Учебная практика\01.01\Проект\OfficeLogistics\OfficeLogistics\obj\Debug\OfficeLogistics.EditStorage.resources
